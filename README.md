@@ -7,4 +7,4 @@ AIベースのモニタリングと不確実性検出の最小再現実装。
 ## 再現手順
 1. Python 3.8+ を用意
 2. pip install -r requirements.txt
-3. python run_example.py
+3. python monitoring-uncertainty-jp.py
