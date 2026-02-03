@@ -1,7 +1,6 @@
 # monitoring-uncertainty-jp
 AI-based monitoring and uncertainty detection for autonomous control
 # Project Title
-
 AIベースのモニタリングと不確実性検出の最小再現実装。
 
 ## 再現手順
