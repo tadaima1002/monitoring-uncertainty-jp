@@ -2,7 +2,7 @@
 AI-based monitoring and uncertainty detection for autonomous control
 # Project Title
 
-短い要旨: AIベースのモニタリングと不確実性検出の最小再現実装。
+AIベースのモニタリングと不確実性検出の最小再現実装。
 
 ## 再現手順
 1. Python 3.8+ を用意
