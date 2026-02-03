@@ -13,7 +13,23 @@ AIベースのモニタリングと不確実性検出の最小再現実装。
 1. 仮想環境を作成して有効化（例: venv）
 ```bash
 python -m venv venv
-source venv/bin/activate   # Windows: venv\Scripts\activate
+
+#################################################
+#Please use the block that matches your environment (Unix or Windows).
+# Unix / macOS / WSL
+python -m venv venv
+source venv/bin/activate
+
+# Windows (PowerShell)
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+
+# Windows (cmd.exe)
+python -m venv venv
+venv\Scripts\activate.bat
+#################################################
+
+
 
 python -m pip install --upgrade pip
 
