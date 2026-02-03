@@ -1,0 +1,14 @@
+# 基本ライブラリ（最低限）
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.2
+matplotlib>=3.7
+seaborn>=0.12
+tqdm>=4.65
+
+# 画像処理 / 深層学習（PyTorch はREADME手順参照）
+torch
+torchvision
+
+# 解析補助（必要なら）
+joblib>=1.3
