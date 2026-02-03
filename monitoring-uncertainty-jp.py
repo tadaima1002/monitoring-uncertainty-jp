@@ -1,5 +1,5 @@
 # Copyright 2026 tadaima1002
-
+# SPDX-License-Identifier: Apache-2.0
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
 # See: http://www.apache.org/licenses/LICENSE-2.0
@@ -331,4 +331,5 @@ plt.title('Margin distribution test split')
 plt.legend()
 plt.tight_layout()
 plt.savefig('s_d_histograms.png')
+
 print("Saved histogram s_d_histograms.png")
